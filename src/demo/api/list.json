@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "js",
+    "price": 149,
+    "discount": 1
+  },
+  {
+    "id": 2,
+    "name": "js2",
+    "price": 229,
+    "discount": 0
+  }
+]
